@@ -2,4 +2,5 @@
 
 A game Jam project where the theme were wedding
 
-![Menu](/Demo/Menu)
+![Menu](/Demo/Menu.png)
+![InGame](/Demo/InGame.png)
